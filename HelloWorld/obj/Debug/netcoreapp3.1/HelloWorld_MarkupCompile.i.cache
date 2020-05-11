@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Course22UW\UW_Course220\HelloWorld\App.xaml
-21593501462
+14-1347652326
 
-6-1965409344
-1921654412462
-MainWindow.xaml;PanelWindow.xaml;
+18-482745139
+2101150511446
+ComboWindow.xaml;ControlWindow.xaml;MainWindow.xaml;MenuWindow.xaml;NavigatorWindow.xaml;NumberControl.xaml;PanelWindow.xaml;ResourceWindow.xaml;RGBControl.xaml;RGBWindow.xaml;SecondWindow.xaml;StatusWindow.xaml;StringsDictionary.xaml;StylesDictionary.xaml;
 
-False
+True
 

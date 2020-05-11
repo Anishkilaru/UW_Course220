@@ -9,6 +9,11 @@ namespace HelloWorld.Models
         private string nameError;
         private string passwordError;
 
+        public override string ToString()
+        {
+            return name;
+        }
+
         public string NameError
         {
             get

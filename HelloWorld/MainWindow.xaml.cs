@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using Microsoft.EntityFrameworkCore;
 namespace HelloWorld
 {
     /// <summary>
@@ -27,18 +27,35 @@ namespace HelloWorld
             InitializeComponent();
 
             uxContainer.DataContext = user;
-            
+
             //Exercise-1
 
             //WindowState = WindowState.Maximized;
 
- 
+            uxContainer.DataContext = user;
+
+            var sample = new SampleContext();
+            sample.User.Load();
+            var users = sample.User.Local.ToObservableCollection();
+            uxList.ItemsSource = users;
+
+
         }
 
         private void uxSubmit_Click(object sender, RoutedEventArgs e)
         {
+
+            int x = 1;
+
+            x=x/0;
+
             
             MessageBox.Show("Submitting Password :" + uxPassword.Text);
+
+            var window = new SecondWindow();
+            Application.Current.MainWindow = window;
+            Close();
+            window.Show();
         }
     }
 }
