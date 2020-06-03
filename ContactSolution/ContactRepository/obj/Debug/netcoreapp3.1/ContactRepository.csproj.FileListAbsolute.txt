@@ -2,3 +2,14 @@ C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreap
 C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.dll
 C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.AssemblyInfoInputs.cache
 C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.AssemblyInfo.cs
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.runtimeconfig.json
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.runtimeconfig.dev.json
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.pdb
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactDB.dll
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactDB.pdb
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.csprojAssemblyReference.cache
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.csproj.CoreCompileInputs.cache
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.csproj.CopyComplete
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.dll
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.pdb
+C:\Course22UW\UW_Course220\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.genruntimeconfig.cache
